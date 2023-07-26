@@ -7,7 +7,7 @@ This Python package provides a simple and intuitive way to calculate the Mexican
 To install the package, you can simply use pip:
 
 ```bash
-pip install rfc_calculator
+pip install git+https://github.com/AltScore/rfc-calculator-python.git
 ```
 
 ## Usage
