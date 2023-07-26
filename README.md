@@ -1,7 +1,3 @@
-# AltScore Python SDK
-
-This is the Python SDK for AltScore. It provides a simple interface to the AltScore API.
-
 # RFC Calculator
 
 This Python package provides a simple and intuitive way to calculate the Mexican tax id (Registro Federal de Contribuyentes - RFC) for a natural person. The RFC is a unique code for each individual and legal entity in Mexico.
