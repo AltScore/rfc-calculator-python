@@ -1,4 +1,4 @@
-from src.rfc_calculator.homoclave import calculate_homoclave
+from rfc_calculator.homoclave import calculate_homoclave
 
 
 def test_case_0():

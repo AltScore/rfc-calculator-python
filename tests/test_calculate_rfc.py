@@ -1,5 +1,5 @@
-from src.rfc_calculator.calculate_rfc import calculate_rfc 
-from src.rfc_calculator.natural_person import NaturalPerson
+from rfc_calculator.calculate_rfc import calculate_rfc 
+from rfc_calculator.natural_person import NaturalPerson
 
 
 def test_calculate_rfc_for_josue_zarzosa_with_particle_in_second_lastname():

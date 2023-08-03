@@ -1,5 +1,5 @@
 import pytest
-from src.rfc_calculator.verification_digit import calculate_verification_digit
+from rfc_calculator.verification_digit import calculate_verification_digit
 
 
 @pytest.mark.parametrize("rfc12Digits, expected", [

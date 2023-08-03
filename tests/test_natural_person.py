@@ -1,4 +1,4 @@
-from src.rfc_calculator.natural_person import NaturalPerson
+from rfc_calculator.natural_person import NaturalPerson
 
 
 def test_simple_case():

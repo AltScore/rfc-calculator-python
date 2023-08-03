@@ -1,6 +1,6 @@
-from src.rfc_calculator.homoclave import calculate_homoclave
-from src.rfc_calculator.verification_digit import calculate_verification_digit
-from src.rfc_calculator.natural_person import NaturalPerson
+from rfc_calculator.homoclave import calculate_homoclave
+from rfc_calculator.verification_digit import calculate_verification_digit
+from rfc_calculator.natural_person import NaturalPerson
 
 
 def calculate_rfc(person: NaturalPerson) -> str:
